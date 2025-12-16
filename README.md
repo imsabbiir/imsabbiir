@@ -23,28 +23,29 @@ My primary focus is on delivering dynamic user experiences and scalable applicat
 
 ## 💻 Featured Projects
 
-These projects demonstrate my proficiency with React, Next.js, and Tailwind CSS, and often include full-stack implementations with MongoDB.
+These projects demonstrate my proficiency with React, Next.js, and Tailwind CSS, showcasing robust, full-stack e-commerce implementations with MongoDB.
 
-### 1. **[Project Name 1] - [Brief Tagline/Description]**
+### 1. **EpicDeals** - Full-Stack E-commerce Platform
 
-* **Goal:** [Briefly describe the main problem this project solves or the feature it demonstrates. e.g., "A full-stack e-commerce platform with Stripe integration."]
+* **Goal:** A highly performant, scalable e-commerce site handling product catalog, user authentication, and secure checkout.
 * **Key Highlights:**
-    * Utilized **Next.js** for efficient routing, API handling, and Server-Side Rendering (SSR).
-    * Designed a responsive, mobile-first interface using **Tailwind CSS**.
-    * Integrated **MongoDB** to manage product, user, and order data.
-* **Technologies:** Next.js, React, Tailwind CSS, MongoDB, [e.g., Express.js, Redux]
-* **[Live Demo Link (if applicable)]** | **[Project Repository Link]**
+    * Implemented the **MERN stack (MongoDB, Next.js API Routes)** for efficient product data management and user profiles.
+    * Leveraged **Next.js** for optimal SEO and speed using **Server-Side Rendering (SSR)** for product pages.
+    * Designed an intuitive, mobile-first UI using **Tailwind CSS** components and custom utility classes.
+    * Integrated a secure payment gateway (e.g., Stripe/SSLCommerz) for handling transactions and order processing.
+* **Technologies:** Next.js, React, Tailwind CSS, MongoDB, Redux Toolkit (for global state), Payment Gateway API
+* **[Live Demo](https://epicdeals.vercel.app/)** | **[Project Repository](https://github.com/imsabbiir/epicdeals)**
 
-### 2. **[Project Name 2] - [Brief Tagline/Description]**
+### 2. **Yejara** - Dynamic E-commerce with Advanced Filtering
 
-* **Goal:** [Describe the project, focusing on a different technical challenge. e.g., "A real-time collaborative task management tool."]
+* **Goal:** An application focused on seamless user experience, powerful client-side search, and complex product filtering.
 * **Key Highlights:**
-    * Developed complex, reusable components in **React.js** for a modular codebase.
-    * Implemented custom hooks for cleaner state logic and code reuse.
-    * Optimized application performance by code splitting and lazy loading.
-* **Technologies:** React, Tailwind CSS, [e.g., Firebase/Auth0 for Auth], [e.g., Zustand for state]
-* **[Live Demo Link (if applicable)]** | **[Project Repository Link]**
-
+    * Developed complex, reusable components in **React.js** (e.g., product cards, cart views) for a highly modular codebase.
+    * Implemented **client-side data fetching and caching** using libraries like SWR or React Query for swift product browsing.
+    * Created an **advanced filtering system** (by price, category, rating) using custom hooks for cleaner state logic and efficient UI updates.
+    * Ensured **accessibility standards (A11y)** for a wider and better user experience.
+* **Technologies:** React, Tailwind CSS, MongoDB, Next.js (Static Generation for performance), Custom Hooks, Zustand (for local state)
+* **[Live Demo](https://yejara.vercel.app/)** | **[Project Repository](https://github.com/imsabbiir/yejara)**
 ---
 
 ## 🌱 My Development Commitments
