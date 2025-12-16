@@ -67,4 +67,4 @@ I'm always open to discussing new opportunities, collaborating on interesting pr
 Thank you for visiting my profile! Feel free to explore my repositories.
 
 
-![snake gif](https://github.com/imsabbiir/imsabbiir/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/imsabbiir/imsabbiir/tree/output/github-contribution-grid-snake.gif)
